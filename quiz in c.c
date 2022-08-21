@@ -169,12 +169,12 @@ void sports(){
 	                       "2. In context of the Indian awards and honors in sports, which among the following is given as Life Time achievement award?",
 						   "3. In Kho-Kho, the players occupying the squares are known as ________?",
 						   "4. Who is the current manager of Manchester United?",
-						   "5. Who is World No. 1 in men’s tennis as per the recent ATP rankings?",
+						   "5. Who is World No. 1 in menâ€™s tennis as per the recent ATP rankings?",
 						   "6. Which game is known as the precursor of the Asian Games?",
 						   "7. In which year, the first Cricket World Cup was held?",
-						   "8. Which of the following is known as “Para ice hockey”?",
-						   "9. Which sport is also known as “Whiff-Whaff”?",
-						   "10. Which sport’s playing format is “Stableford”?"};
+						   "8. Which of the following is known as Para ice hockey?",
+						   "9. Which sport is also known as Whiff-Whaff?",
+						   "10. Which sportâ€™s playing format is Stableford?"};
 	char options[][100]={"A. Badminton","B. Football","C. Volleyball","D. Table Tennis",
 	                     "A. Dronacharya Award","B. Rajiv Gandhi Khel Ratna Award","C. Dhyan Chand Award", "D. Arjuna Award",
 						 "A. Lobby","B. Raiders","C. Chasers","D. Chukker",
